@@ -5,7 +5,7 @@ body { padding: 0; margin: 0 }
 #unity-canvas { background: #FFFFFF }
 .unity-mobile #unity-canvas { width: 100%; height: 100% }
 #unity-loading-bar { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: none }
-#unity-logo { width: 512px; height: 128px; background: url('loading.png') no-repeat center }
+#unity-logo { left:104px; width: 512px; height: 128px; background: url('loading.png') no-repeat center }
 #unity-progress-bar-empty { width: 141px; height: 18px; margin-top: 10px; margin-left: 13px; background: url('progress-bar-empty-dark.png') no-repeat center }
 #unity-progress-bar-full { width: 0%; height: 18px; margin-top: 10px; background: url('progress-bar-full-dark.png') no-repeat center }
 .unity-mobile #unity-footer { display: none }
